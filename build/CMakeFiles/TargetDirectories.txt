@@ -1,0 +1,3 @@
+/home/fajarjulyana/Downloads/HelloGTK/build/CMakeFiles/HelloGTK.dir
+/home/fajarjulyana/Downloads/HelloGTK/build/CMakeFiles/edit_cache.dir
+/home/fajarjulyana/Downloads/HelloGTK/build/CMakeFiles/rebuild_cache.dir
